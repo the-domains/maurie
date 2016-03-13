@@ -1,14 +1,28 @@
+name: Maurie
+favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.7150084
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7200674
-  lightness: 0.4536256
-  brandStrength: 0.4550956
   brandColors:
     - '#150F0B'
     - '#FFFFFF'
     - '#BDA353'
     - '#D8BE87'
     - '#CFCFC5'
+  brandStrength: 0.4550956
+  lightness: 0.4536256
+  saturation: 0.7200674
   rhythmicContrast: 0.7740303
-name: Maurie
+purpose: []
